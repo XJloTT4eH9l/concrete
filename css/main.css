@@ -832,7 +832,7 @@ ul {
   }
 }
 .footer__location {
-  background-image: url("../../img/locztion.svg");
+  background-image: url("../img/locztion.svg");
   background-repeat: no-repeat;
   background-position-y: 14px;
 }
